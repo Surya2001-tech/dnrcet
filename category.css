@@ -1,0 +1,125 @@
+
+.hii{
+ 
+    height:50px;
+    display:flex;
+    margin: 5px;
+    margin-bottom: 100px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+    justify-content: center;
+  
+}
+.heading{
+    text-align: center;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+}
+
+.favourite-bg-card-image {
+    width: 80px;
+    height: 100px;
+    
+}
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 70px;
+    justify-content: center;
+}
+
+.favourite-bg-card-container {
+    background-color: rgb(211, 174, 63);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 5px;
+    height:150px;
+    width:100px;
+    display: flex;
+    flex-wrap: wrap;
+   flex-direction: row;
+   align-items: center;
+}
+
+.favourite-bg-card {
+    background-color: rgb(210, 170, 222);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 5px;
+    height:150px;
+    width:100px;
+    justify-content: center;
+}
+
+.favourite-bg {
+    background-color: rgb(227, 216, 184);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 5px;
+    height:150px;
+    width:100px;
+    justify-content: center;
+    border-top: 10px;
+}
+
+.favourite {
+    background-color: rgb(219, 161, 128);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 5px;
+    height:150px;
+    width:100px;
+    justify-content: center;
+    border-top: 10px;
+}
+
+.fav-cooldrinks {
+    background-color: rgb(133, 188, 220);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 5px;
+    height:150px;
+    width:100px;
+    justify-content: center;
+    border-top: 10px;
+}
+
+.favourite-o {
+    background-color: rgb(156, 234, 232);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 5px;
+    height:150px;
+    width:100px;
+    justify-content: center;
+    border-top: 10px;
+}
+.favourite-n {
+    background-color: rgb(234, 156, 224);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 5px;
+    height:150px;
+    width:100px;
+    justify-content: center;
+    border-top: 10px;
+}
+.favourite-m {
+    background-color: rgb(124, 126, 237);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 5px;
+    height:150px;
+    width:100px;
+    justify-content: center;
+    border-top: 10px;
+}
